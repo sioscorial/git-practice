@@ -7,3 +7,10 @@ init는 새로운 Git 저장소를 초기화하는 명령어이다.
 -git add ?
 git add 는 변경된 파일을 스테이지에 추가하는 명령어이다.
 git add 파일 이름을 쓰면되고 여러개일시 git add 파일이름.js 파일이름.js 라고 쓰면되는데 한번에 추가하려면 git add . 을 사용하면 된다.
+
+-git commit ? 
+git commit은 스테이지에 있는 변경 사항을 커밋 하여 버전을 만든다.
+git commit -m "커밋 메시지" 로 사용한다.
+git commit은 내가 무엇을 수정하였는지에 대한 내용을 짧게 설명한다.
+
+
